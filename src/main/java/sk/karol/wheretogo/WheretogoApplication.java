@@ -8,6 +8,8 @@ public class WheretogoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(WheretogoApplication.class, args);
+		
+		// skúška
 	}
 
 }
